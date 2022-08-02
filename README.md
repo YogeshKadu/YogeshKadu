@@ -1,4 +1,4 @@
-<link src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css">
+[src](https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css
 <div class="bg-primary p-5 rounded rounded-3 m-3 text-center d-flex flex-column gap-3">
   <h6 class=" text-white fs-3 my-0">Hello there:wave:,</h6>
   <h6 class="text-white fs-1 mb-3 mt-0">It's Yogesh Vasant Kadu</h6>
