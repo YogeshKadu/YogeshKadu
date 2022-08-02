@@ -3,5 +3,7 @@
   <h3 align="center">Hello there:wave:,</h6>
   <h1 align="center">It's Yogesh Vasant Kadu</h6>
   <h6 align="center">| Engineer | Programmer | WebDeveloper | Native App Developer | Game Programmer |</h6>
-  [more about me](https://bitloader0o0.web.app)
+  [more about me]
+  
+  [Duck Duck Go](https://duckduckgo.com).
 </div>
