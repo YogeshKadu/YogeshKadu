@@ -40,12 +40,11 @@
 
 <h3 align="left">IDE's</h3>
 
-<!--
 <h3 align="left">web Development</h3>
 
 ###
 
-<p align="left">FRONTEND:  ReactJS, NextJS, AngularJS.<br>NATIVE:  Ionic | Capacitor, Electron.<br>CSS:  Tailwind, daisyUi, Material UI.<br>CORE:  HTML, CSS, JS.<br>BACKEND: ExpressJS</p> -->
+<p align="left">FRONTEND:  ReactJS, NextJS, AngularJS.<br>NATIVE:  Ionic | Capacitor, Electron.<br>CSS:  Tailwind, daisyUi, Material UI.<br>CORE:  HTML, CSS, JS.<br>BACKEND: ExpressJS</p>
 
 ###
 
