@@ -24,8 +24,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">self-taught web developer who loves creating cool stuff on the internet! I'm really into the latest web frameworks and making awesome user interfaces that people love to use. I'm always eager to learn new things and stay up-to-date with what's happening in the tech world. Let's build something amazing together!</p>
 
 ###
