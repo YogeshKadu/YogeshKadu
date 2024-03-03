@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<h6 align="left"># Game Development<br>Unity Engine, C#<br><br># Editors<br>VS code, Notepad++, Sublime, Google Doc 😜<br><br># Databases<br>MySQL, DB2, Oracle, MongoDB, Firebase</h6>
+<p align="left"># Game Development<br>Unity Engine, C#<br><br># Editors<br>VS code, Notepad++, Sublime, Google Doc 😜<br><br># Databases<br>MySQL, DB2, Oracle, MongoDB, Firebase</p>
 
 ###
 
