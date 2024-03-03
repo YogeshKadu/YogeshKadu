@@ -89,18 +89,6 @@
 ###
 
 <span align="left">
-<div>
-  <a href="https://codepen.io/yogeshkadu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="34" height="24" alt="codepen logo"  />
-  </a>
-  <a href="https://twitter.com/YogeshKadu5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="34" height="24" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yogesh-kadu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="24" alt="linkedin logo"  />
-  </a>
-  </div>
-</span>
 <span align="right">
 <div>
   <a href="https://codepen.io/yogeshkadu/" target="_blank">
@@ -113,6 +101,20 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="24" alt="linkedin logo"  />
   </a>
   </div>
+</span>
+<span align="left">
+<div>
+  <a href="https://codepen.io/yogeshkadu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="34" height="24" alt="codepen logo"  />
+  </a>
+  <a href="https://twitter.com/YogeshKadu5" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="34" height="24" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/yogesh-kadu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="24" alt="linkedin logo"  />
+  </a>
+  </div>
+</span>
 </span>
 
 ###
