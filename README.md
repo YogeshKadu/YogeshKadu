@@ -1,8 +1,8 @@
 <h3 align="left">Hi There, 👋</h3>
 
-###
+<!-- ###
 
-<br clear="both">
+<br clear="both"> -->
 
 <h1 align="left">It's Yogesh Vasant Kadu</h1>
 
@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-<h2 align="left">⚔ My Arsenals</h2>
+<h2 align="left">⚔ Web Development Arsenals</h2>
 
 ###
 
@@ -38,11 +38,14 @@
 
 ###
 
+<h3 align="left">IDE's</h3>
+
+<!--
 <h3 align="left">web Development</h3>
 
 ###
 
-<p align="left">FRONTEND:  ReactJS, NextJS, AngularJS.<br>NATIVE:  Ionic | Capacitor, Electron.<br>CSS:  Tailwind, daisyUi, Material UI.<br>CORE:  HTML, CSS, JS.<br>BACKEND: ExpressJS</p>
+<p align="left">FRONTEND:  ReactJS, NextJS, AngularJS.<br>NATIVE:  Ionic | Capacitor, Electron.<br>CSS:  Tailwind, daisyUi, Material UI.<br>CORE:  HTML, CSS, JS.<br>BACKEND: ExpressJS</p> -->
 
 ###
 
@@ -68,7 +71,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/YogeshKadu/YogeshKadu/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/YogeshKadu/YogeshKadu/main/assets/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -82,7 +85,12 @@
 
 ###
 
-<div align="right">
+<br clear="both">
+
+###
+
+<span align="left">
+<div>
   <a href="https://codepen.io/yogeshkadu/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="34" height="24" alt="codepen logo"  />
   </a>
@@ -92,6 +100,20 @@
   <a href="https://www.linkedin.com/in/yogesh-kadu/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="24" alt="linkedin logo"  />
   </a>
-</div>
+  </div>
+</span>
+<span align="right">
+<div>
+  <a href="https://codepen.io/yogeshkadu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="34" height="24" alt="codepen logo"  />
+  </a>
+  <a href="https://twitter.com/YogeshKadu5" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="34" height="24" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/yogesh-kadu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="24" alt="linkedin logo"  />
+  </a>
+  </div>
+</span>
 
 ###
