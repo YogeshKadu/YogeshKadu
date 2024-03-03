@@ -32,7 +32,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media1.tenor.com/m/QioE-moSVdAAAAAC/spiderman.gif"  />
+<img align="right" height="200" src="https://media1.tenor.com/m/QioE-moSVdAAAAAC/spiderman.gif"  />
 
 ###
 
@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/YogeshKadu/YogeshKadu/assets/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/YogeshKadu/YogeshKadu/main/assets/snake.svg" alt="Snake animation" />
 
 ###
 
