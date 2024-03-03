@@ -40,13 +40,18 @@
 
 ###
 
-<p align="left">FRONTEND:  ReactJS, NextJS, AngularJS.<br>NATIVE:  Ionic | Capacitor, Electron.<br>CSS:  Tailwind, daisyUi, Material UI.<br>CORE:  HTML, CSS, JS.<br>BACKEND: ExpressJS</p>
+<p align="left"><b>FRONTEND:</b>  ReactJS, NextJS, AngularJS.<br><b>NATIVE:</b>  Ionic | Capacitor, Electron.<br><b>CSS:</b>  Tailwind, daisyUi, Material UI.<br><b>CORE:</b>  HTML, CSS, JS.<br><b>BACKEND:</b> ExpressJS</p>
 
 ###
 
 <br clear="both">
-
-<h6 align="left"># Game Development<br>Unity Engine, C#<br><br># Editors<br>VS code, Notepad++, Sublime, Google Doc 😜<br><br># Databases<br>MySQL, DB2, Oracle, MongoDB, Firebase</h6>
+<p align="left"># Game Development<br>
+Unity Engine, C#<br><br>
+# Editors<br>
+VS code, Notepad++, Sublime, Google Doc 😜<br><br>
+# Databases<br>
+MySQL, DB2, Oracle, MongoDB, Firebase
+</p>
 
 ###
 
