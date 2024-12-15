@@ -33,24 +33,20 @@ Im Working in Capgemini India as a Senior Software Engineer, I specialize in fro
 
 ---
 
-<h3 align="left">🎮 Game Development</h3>
+<h3 align="left">Game Development</h3>
 <ul>
   <li>Unity Engine, C#</li>
 </ul>
 
-<h3 align="left">🛠 Tools and Editors</h3>
+<h3 align="left">Tools and Editors</h3>
 <ul>
   <li>VS Code, Sublime Text, Notepad++, Google Docs</li>
 </ul>
 
----
-
-<h3 align="left">📊 Databases</h3>
+<h3 align="left">Databases</h3>
 <ul>
   <li>MySQL, DB2, Oracle, MongoDB, Firebase</li>
 </ul>
-
----
 
 <h2 align="left">📌 Key Achievements</h2>
 
@@ -61,7 +57,6 @@ Im Working in Capgemini India as a Senior Software Engineer, I specialize in fro
   <li>Learning AWS for cloud hosting and scalable web development solutions to stay ahead in the industry.</li>
 </ul>
 
----
 
 <h2 align="center">🌟 Let's Connect</h2>
 
@@ -77,7 +72,6 @@ Im Working in Capgemini India as a Senior Software Engineer, I specialize in fro
   </a>
 </div>
 
----
 
 <h3 align="center">✨ See You Around! ✨</h3>
 
